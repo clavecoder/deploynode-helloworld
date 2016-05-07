@@ -1,0 +1,30 @@
+{
+  "name": "deploynode-helloworld",
+  "version": "0.0.1",
+  "description": "Deploying NodeJS Book Hello World app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clavecoder/deploynode-helloworld.git"
+  },
+  "keywords": [
+    "example",
+    "nodejs",
+    "docker"
+  ],
+  "author": "Kenneth Brubaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clavecoder/deploynode-helloworld/issues"
+  },
+  "homepage": "https://github.com/clavecoder/deploynode-helloworld#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "eslint": "^2.9.0"
+  }
+}
